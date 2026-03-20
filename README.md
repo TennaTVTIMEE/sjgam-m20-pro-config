@@ -12,4 +12,5 @@ Without correct DTB: black screen / boot failure - With DTB: partial compatibili
 You can brick your device. Backup your SD card before testing.  
 Credits -
 Community findings from SBCGaming subreddit
+
 @wll1rah for adb port
