@@ -10,6 +10,10 @@ Place the DTB in the /boot/ partition of your test SD - Update extlinux.conf to 
 Without correct DTB: black screen / boot failure - With DTB: partial compatibility only (drivers may still break)  
 ## Warning
 You can brick your device. Backup your SD card before testing.  
+##Themes
+its theme is in: .emulationstation\themes\W20C
+I traced it to "es-theme-rq-full-v5"
+DO NOT REPLACE EVERYTHING, IT WILL LOOK BAD, REPLACE LOGOS IN WHEELSPIRAL AND REMOVE ALL OVERLAYS.
 Credits -
 Community findings from SBCGaming subreddit
 
